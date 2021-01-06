@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to This Page
 
-You can use the [editor on GitHub](https://github.com/kevinc0229/cse110lab1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Pictures
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Nice](poggers.jpg)
 
-### Markdown
+### Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You should visit [this link](https://kevinc0229.github.io/) to get to know the editor a bit more.
 
-```markdown
-Syntax highlighted code block
+### Other Core Markdown Constructs
 
-# Header 1
-## Header 2
-### Header 3
+This sentence has **bold**, _italic_, and ~~strickthrough~~ text.
 
-- Bulleted
-- List
+This is supposedly a quote from someone:
 
-1. Numbered
-2. List
+> I am your father.
 
-**Bold** and _Italic_ and `Code` text
+This is supposedly a quote from some `code`:
 
-[Link](url) and ![Image](src)
+```
+if True:
+    print("False")
+else:
+    print("True")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+These are three lists:
 
-### Jekyll Themes
+- one
+- two
+- three
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevinc0229/cse110lab1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. dash
+2. dash
+3. dash
